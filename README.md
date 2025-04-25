@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HJtechinical
+- 👋 Hi, I’m @CodeWithHJ
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Nodejs
 - 📫 How to reach me ... http://www.youtube.com/@CodeWithHJ
